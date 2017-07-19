@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        test
 // @namespace   http://*.3gokushi.jp/village.php*
-// @description 自動鹵獲ツール by ぼっち@yabage17w
+// @description 自動鹵獲ツール by botti17
 // @include     http://*.3gokushi.jp/village.php*
 // @include     http://*.3gokushi.jp/card/deck.php*
 // @include     http://*.3gokushi.jp/user*
