@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        test
 // @namespace   http://*.3gokushi.jp/village.php*
-// @description 六角次導化 by ぼっち@yabage17w
+// @description 自動鹵獲ツール by ぼっち@yabage17w
 // @include     http://*.3gokushi.jp/village.php*
 // @include     http://*.3gokushi.jp/card/deck.php*
 // @include     http://*.3gokushi.jp/user*
@@ -17,4 +17,4 @@
 // ==/UserScript==
 
 //2017.04.16 ツールの作成に着手
-//
+//自動鹵獲ツール作れたら良いのになw
